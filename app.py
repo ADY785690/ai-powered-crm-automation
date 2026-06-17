@@ -8,6 +8,14 @@ df = pd.read_csv("data/customers.csv")
 st.subheader("Customer Database")
 st.dataframe(df)
 
+st.subheader("Add New Customer")
+
+name = st.text_input("Customer Name")
+email = st.text_input("Email")
+
+if st.button("Add Customer"):
+    st.success(f"{name} added successfully!")
+
 st.subheader("Lead Analytics")
 
 hot = len(df[df["Status"]=="Hot"])
