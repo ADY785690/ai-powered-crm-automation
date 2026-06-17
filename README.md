@@ -38,7 +38,7 @@ ai-powered-crm-automation/
 
 ### Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](image-51.webp)
 
 ## Future Enhancements
 - Email Automation
