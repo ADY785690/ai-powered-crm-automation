@@ -1,0 +1,4 @@
+CustomerID,Name,Email,LeadScore,Status
+1,Rahul,rahul@email.com,85,Hot
+2,Priya,priya@email.com,65,Warm
+3,Amit,amit@email.com,40,Cold
