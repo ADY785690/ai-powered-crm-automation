@@ -27,7 +27,18 @@ ai-powered-crm-automation/
 ├── data/
 │   └── customers.csv
 └── README.md
-```
+
+## Demo
+
+### Features
+- Customer Database
+- Lead Scoring
+- CRM Analytics
+- AI-Based Classification
+
+### Dashboard Preview
+
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ## Future Enhancements
 - Email Automation
